@@ -1,6 +1,7 @@
 import game.Cup;
 import game.Die;
 
+
 import static org.junit.Assert.*;
 
 public class MainTest {
